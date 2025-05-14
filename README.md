@@ -47,17 +47,3 @@ All scripts are ready-to-use unless stated otherwise in their individual descrip
 ⚠️ Do **not** use to cheat, exploit, or disrupt gameplay on public servers.  
 ⚠️ Misuse may lead to **permanent bans** or other consequences.  
 ⚠️ I am **not responsible** for any actions resulting from the use of these scripts.
-
----
-
-## 📄 License <a name="license"></a>
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-> **Have questions?** Feel free to open an issue or contact me via [Discord/Telegram/@yourhandle]
-
----
-
-Если позже вы добавите конкретные скрипты, я могу помочь вам создать автоматически обновляющийся список на основе содержимого папки `/scripts`.
