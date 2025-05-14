@@ -35,10 +35,7 @@ All scripts are shared for **educational and research purposes only**, to demons
 
 To use any script:
 
-1. Open the `.lua` file of interest.
-2. Copy its contents.
-3. Paste it into your preferred Roblox executor.
-4. Execute and observe behavior in-game.
+Just execute "loadstring(game:HttpGet("SCRIPT LINK"))()"
 
 All scripts are ready-to-use unless stated otherwise in their individual descriptions.
 
